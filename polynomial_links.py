@@ -1,0 +1,1 @@
+#https://tcoil.info/detect-double-bottom-in-stocks-with-python/
