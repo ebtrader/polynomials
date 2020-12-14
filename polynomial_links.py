@@ -1,4 +1,4 @@
-#https://tcoil.info/detect-double-bottom-in-stocks-with-python/
+https://tcoil.info/detect-double-bottom-in-stocks-with-python/
 
 https://youtu.be/Ercd-Ip5PfQ
 https://youtu.be/GIywmJbGH-8
