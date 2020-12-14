@@ -1,5 +1,10 @@
 https://tcoil.info/detect-double-bottom-in-stocks-with-python/
 
-https://youtu.be/Ercd-Ip5PfQ
-https://youtu.be/GIywmJbGH-8
-https://youtu.be/7S0gBn5cjYM
+Plotting data in real-time
+  https://youtu.be/Ercd-Ip5PfQ
+
+Plotting real-time data
+  https://youtu.be/GIywmJbGH-8
+  
+TDAmeritrade Streaming
+  https://youtu.be/7S0gBn5cjYM
